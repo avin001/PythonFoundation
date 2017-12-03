@@ -12,3 +12,11 @@ print(address)
 grams_of_sugar = float("35.0")
 print(grams_of_sugar)
 print(type(grams_of_sugar))
+
+mon_sales = "121"
+tue_sales = "105"
+wed_sales = "110"
+thu_sales = "98"
+fri_sales = "95"
+total_sales = int(mon_sales) + int(tue_sales) + int(wed_sales) + int(thu_sales) + int(fri_sales)
+print("This week's total sales: " + str(total_sales))
