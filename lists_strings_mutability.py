@@ -16,3 +16,5 @@ print(sample_list)
 # if the above commented line is uncommented and run we get the following error
 # TypeError: 'str' object does not support item assignment
 # Lists are mutable, while strings are immutable
+sample_list[0:2] = ['Paul', 'Tiffany']
+print(sample_list)
