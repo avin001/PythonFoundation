@@ -18,3 +18,16 @@ print(sample_list)
 # Lists are mutable, while strings are immutable
 sample_list[0:2] = ['Paul', 'Tiffany']
 print(sample_list)
+
+name = "Old Woman"
+person = name
+name = "Dennis"
+print(name)
+print(person)
+dish = ["Spam", "Spam", "Spam", "Spam", "Spam", "Spam", "baked beans", "Spam", "Spam", "Spam", "Spam"]
+mr_buns_order = dish
+print(dish)
+print(mr_buns_order)
+dish[6] = "Spam"
+print(mr_buns_order)
+print(dish)
