@@ -8,3 +8,6 @@ print(elements['helium'])
 print(elements.get('unobtainium', 'There\'s no such element!'))
 print(elements.get('hydrogen'))
 print(elements['hydrogen']['weight'])
+elements['hydrogen']['is_noble_gas'] = False
+elements['helium']['is_noble_gas'] = True
+print(elements)
