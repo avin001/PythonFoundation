@@ -7,4 +7,3 @@ def nearest_square(limit):
 
 test1 = nearest_square(40)
 print("Expected result: 36, Actual result: {}".format(test1))
-
