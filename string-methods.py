@@ -23,7 +23,7 @@ print("game234".isalnum())
 quote = "Value has a value only if its value is valued."
 print(quote.count("value"))
 tech_fact = "A tech fact: Java is an object oriented programming language."
-tech_fact_lower_case = tech_fact.lower();
+tech_fact_lower_case = tech_fact.lower()
 vowel_count = tech_fact_lower_case.count("a") + tech_fact_lower_case.count("e") + tech_fact_lower_case.count("i") + tech_fact_lower_case.count("o") + tech_fact_lower_case.count("u")
 print(vowel_count)
 ip_address = "208.94.117.90"
