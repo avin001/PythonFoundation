@@ -22,7 +22,7 @@ def evaluate_result(my_answers, solutions):
     count_correct = 0
     count_incorrect = 0
     for result in results:
-        if result == True:
+        if result is True:
             count_correct += 1
         else:
             count_incorrect += 1
