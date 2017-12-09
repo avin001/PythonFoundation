@@ -48,6 +48,7 @@ else:
 message = "Somebody who is {} years old will pay ${} to ride the bus.".format(age, ticket_price)
 print(message)
 
+
 def which_prize(points):
     if 0 <= points <= 50:
         return "Congratulations! You have won a wooden rabbit!"
