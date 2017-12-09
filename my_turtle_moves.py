@@ -3,6 +3,7 @@ import turtle
 turtle = turtle.Turtle()
 turtle.speed(20)
 
+
 def make_moves(distance):
     turtle.forward(distance)
     turtle.left(distance)
