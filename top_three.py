@@ -10,7 +10,7 @@ def top_three(input_list):
     #     return sorted_list[:3]
 
     # solution above (commented) can be written in one simple line as below:
-    return sorted(input_list, reverse = True)[:3]
+    return sorted(input_list, reverse=True)[:3]
 
 
 print(top_three([2, 3, 5, 6, 8, 4, 2, 1]))
