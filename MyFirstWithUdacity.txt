@@ -1,1 +1,1 @@
-This is Udacity's 'Python Foundation' Nanodegree program.
+This is Udacity's 'Python Foundation' Nanodegree program. The course includes learning Python programming fundamentals such as data types and structures, variables, loops, and functions. Students will work on NumPy and Pandas to handle and manipulate data.
