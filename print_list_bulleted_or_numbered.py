@@ -1,4 +1,4 @@
-def print_list(l, numbered = False, bullet_character = '-'):
+def print_list(l, numbered=False, bullet_character='-'):
     """Prints a list on multiple lines, with numbers or bullets
     Arguments:
     l: The list to print
