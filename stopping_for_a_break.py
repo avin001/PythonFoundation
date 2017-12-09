@@ -1,5 +1,5 @@
 # each item in the manifest is an item and its weight
-manifest =[["bananas", 15], ["mattresses", 34], ["dog kennels", 42], ["machine that goes ping!", 120], ["tea chests", 10], ["cheeses", 0]]
+manifest = [["bananas", 15], ["mattresses", 34], ["dog kennels", 42], ["machine that goes ping!", 120], ["tea chests", 10], ["cheeses", 0]]
 cargo_weight = 0
 cargo_hold = []
 for cargo in manifest:
