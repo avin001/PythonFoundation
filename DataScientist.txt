@@ -1,0 +1,11 @@
+A data scientist is a unicorn that bridges math, algorithms, experimental design, engineering chops, communication and management skills, but they aren't specialists in every aspect. I think that's a common misconception when you talk about data scientists--there is no such thing as a data science operation without a team of some kind. Data scientists are not armies of one, they have to rely on support of some kind to drive impact with their projects.
+
+Here are a few other things data scientists are not:
+
+1) Data scientists are not from one fixed academic background. Most people think of data scientists as hailing from computer science or statistics/mathematics backgrounds, but there are plenty of data scientists who come from social sciences backgrounds who were interested in the quantitative study of human insights. And while advanced degrees are the norm in the industry, there are a few data scientists who have a Bachelor's degree or even less.
+
+DJ Patil, the Chief Data Scientist of the United States, describes intellectual curiosity as the base of data science. You don't need a certain degree to have that.
+
+2) They're not wizards who can conjure data. Data scientists can use machine learning and other algorithms to squeeze more insights out of less data, but they're not magical: if you don't have a lot of data, or haven't been tracking it properly, there is precious little a data scientist can do after the fact.
+
+3) They're not technical grunts you can hide from significant work or different teams. Data scientists are here to do data projects end-to-end, from collecting data to communicating its relevance. In order to do so, they have to be in close contact with other teams. Like Robert Chang mentioned, their responsibility is to create a data driven organization, and that requires evangelization with other teams as to the importance of data and how to collect/process it. Don't expect a data scientist to shy away from delivering impact.
