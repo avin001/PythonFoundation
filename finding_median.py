@@ -5,4 +5,5 @@ def median(numbers):
     else:
         return (numbers[int(len(numbers) / 2) - 1] + numbers[int(len(numbers) / 2)]) / 2
 
+
 print(median([1, 2, 3, 4]))
